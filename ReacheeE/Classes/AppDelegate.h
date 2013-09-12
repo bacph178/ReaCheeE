@@ -10,6 +10,7 @@
 #define  _APP_DELEGATE_H_
 
 #include "CCApplication.h"
+#include "GameLayer.h"
 
 /**
 @brief    The cocos2d Application.
